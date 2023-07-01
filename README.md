@@ -2,6 +2,11 @@
 
 This is a weather web application built using HTML, CSS, JavaScript, and the OpenWeatherMap API. It allows users to search for the current weather conditions of any city around the world.
 Visit The site
+
+![image](https://github.com/nisha-laur/Weather-Application/assets/104618576/9066f83a-50cb-4268-a905-fdb26692499d)
+![image](https://github.com/nisha-laur/Weather-Application/assets/104618576/b3ee6892-1b6f-432d-a274-830a47346038)
+
+
 **Features**
 * Search for weather conditions of any city
 * Display current temperature, weather description, and icon
@@ -46,7 +51,6 @@ This application was created by Nisha Laur. It utilizes the following technologi
 * CSS
 * JavaScript
 * OpenWeatherMap API
-**License**
-This project is licensed under the MIT License
+
 
 
